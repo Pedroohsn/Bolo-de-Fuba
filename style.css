@@ -1,0 +1,42 @@
+body{
+    background: lightslategray;
+}
+
+.container{
+    height: 535px;
+    width: 360px;
+    margin: auto;
+    background: darkcyan;
+    box-shadow: 5px 5px 5px lightseagreen;
+    border-radius: 20px;
+    padding: 0 20px 20px 20px;
+}
+
+#titulo{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-weight: bold;
+    text-align: center;
+    background: lightseagreen;
+    margin: 0 -21px 0 -21px;
+}
+
+#historia{
+    margin: 9px;
+    font-weight: normal;
+}
+
+#tempo{
+    font-weight: bold;
+}
+
+.button{
+    padding: 10px;
+    background: lightseagreen;
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+    width: 200px;
+    display: block; 
+    margin: 0 auto;
+}
